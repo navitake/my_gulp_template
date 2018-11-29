@@ -1,0 +1,24 @@
+{
+    "name": "gulptest",
+    "version": "1.0.0",
+    "description": "Glupのテスト",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gulp",
+        "lig"
+    ],
+    "author": "frontainer",
+    "repository": "gulptest",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^6.0.0",
+        "gulp-frontnote": "^2.0.1",
+        "gulp-plumber": "^1.2.0",
+        "gulp-sass": "^4.0.1",
+        "gulp-uglify": "^3.0.1"
+    }
+}
